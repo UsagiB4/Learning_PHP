@@ -1,0 +1,5 @@
+to run the .php file you must start the php server.
+for that open CMD/ terminal in your working directory.
+type:  
+    php -S localhost:4000
+you can use any port for local host like 5050, 5000, 3000 so on.
